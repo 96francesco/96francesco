@@ -1,5 +1,6 @@
-# Hello there!
-I am Francesco, WUR graduate passionate about geospatial data, satellite imagery and data science. My work focuses on satellite data analysis, computer vision, and deep learning techniques for Earth Observation.
+# 👋 Hello there!
+I am Francesco, I am passionate about geospatial data, satellite imagery and data science. My work focuses on satellite data analysis, computer vision, and deep learning techniques for Earth Observation.
+Beyond my professional focus and interests, I enjoy tinkering with Raspberry Pi projects and building Linux-based systems and solutions for self-hosted sercives, networking and more.
 Here you will find some projects I have worked on that I can publicly share. 
 
 ## 💡 My tech skills
@@ -18,6 +19,7 @@ Here you will find some projects I have worked on that I can publicly share.
 
 ## 📚 Small learning projects
 ### A collection of experiments and small tools
+- [TorchGeo for land cover classification](https://github.com/96francesco/esri2020-landcover-torchgeo) - Project to practice and learn TorchGeo
 - [Deep Learning for image classification](https://github.com/96francesco/TrimoNet) - University course project involving coding and training a CNN to classify images from the UCM dataset
 - [GADM data download](https://github.com/96francesco/get-gadm-data) - R script to quickly download data from GADM, with the desired administration level of the country of interest
 - [OEMC hackathon: EU Land Cover classification](https://github.com/96francesco/oemc-hackathon-2023) - my submission for this hackathon, I placed 18th.
