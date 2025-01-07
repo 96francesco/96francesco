@@ -25,5 +25,8 @@ Here you will find some projects I have worked on that I can publicly share.
 - [OEMC hackathon: EU Land Cover classification](https://github.com/96francesco/oemc-hackathon-2023) - my submission for this hackathon, I placed 18th.
 - [Raster inspection with PyQGIS](https://github.com/96francesco/pyqgis-raster-inspection) - tool to manually review satellite images and related ground truth masks with QGIS
 
+## 🍓 Raspberry Pi Projects
+- [Raspberry Pi-based TorrentBox and NAS](https://github.com/96francesco/rpi-torrentbox-nas) - Implementation of a TorrentBox using a Raspberry Pi
+
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/francescopasanisi1996/)
