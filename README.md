@@ -4,10 +4,10 @@ Beyond my professional focus and interests, I enjoy tinkering with Raspberry Pi 
 Here you will find some projects I have worked on that I can publicly share. 
 
 ## 💡 My tech skills
-- ML/DL for Earth Observation with Python (PyTorch, PyTorch Lightning, scikit-learn, Jupyter Lab)
+- ML/DL for Earth Observation with Python (PyTorch, PyTorch Lightning, TorchGeo, scikit-learn, Optuna, Jupyter Lab)
 - Computer Vision with Python (OpenCV, scikit-image, Pillow)
-- Geoscripting with Python and R (NumPy, GeoPandas, rasterio, terra, sf)
-- Data analysis and manipulation with Python and R (Numpy, Pandas, statsmodels, scipy, dplyr)
+- Geoscripting with Python and R (GDAL/OGR, GeoPandas, rasterio, terra, sf)
+- Data analysis and manipulation with Python and R (NumPy, Pandas, statsmodels, scipy, dplyr)
 - Google Earth Engine and geemap
 - Data visualization with Python and R (matplotlib, seaborn, ggplot)
 - GIS desktop applications (ArcGIS, QGIS) and related APIs (ArcPy, PyQGIS)
