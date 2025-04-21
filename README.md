@@ -14,7 +14,7 @@ Here you will find some projects I have worked on that I can publicly share.
 
 
 ## 🛰️ Featured projects
-- [Artisanal mining mapping with Deep Learning and high-res satellite imagery](https://github.com/96francesco/asm-mapping-deeplearning) - Detecting artisanal mining activities using neural networks and optical-SAR data fusion
+- [Artisanal mining mapping with Deep Learning and high-res satellite imagery](https://github.com/96francesco/asm-mapping) - Detecting artisanal mining activities using neural networks and optical-SAR data fusion
 
 
 ## 📚 Small learning projects
